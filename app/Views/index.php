@@ -29,7 +29,7 @@
                     <img src="assets/images/gato.webp" class="card-img-top" alt="...">
                 </a>
                 <div class="card-body">
-                    <p class="text-center">gatos</p>
+                    <p class="text-center text-dark">gatos</p>
                 </div>
             </div>
             <div class="card mt-3" style="width: 10rem; border: none;">
@@ -37,7 +37,7 @@
                     <img src="assets/images/perro.webp" class="card-img-top" alt="...">
                 </a>
                 <div class="card-body">
-                    <p class="text-center">perros</p>
+                    <p class="text-center text-dark">perros</p>
                 </div>
             </div>
             <div class="card mt-3" style="width: 10rem; border: none;">
@@ -45,7 +45,7 @@
                     <img src="assets/images/ave.webp" class="card-img-top" alt="...">
                 </a>
                 <div class="card-body">
-                    <p class="text-center">aves</p>
+                    <p class="text-center text-dark">aves</p>
                 </div>
             </div>
             <div class="card mt-3" style="width: 10rem; border: none;">
@@ -53,7 +53,7 @@
                     <img src="assets/images/pez.webp" class="card-img-top" alt="...">
                 </a>
                 <div class="card-body">
-                    <p class="text-center">peces</p>
+                    <p class="text-center text-dark">peces</p>
                 </div>
             </div>
         </div>
@@ -71,7 +71,7 @@
                 <div class="col-12 col-sm-6 col-md-4 col-lg-3 mb-3">
                     <div class="card h-100 d-flex flex-column">
                         <img src="assets/images/purina.webp" class="card-img-top" alt="...">
-                        <div class="card-body d-flex flex-column">
+                        <div class="card-body bg-dark d-flex flex-column">
                             <h5 class="card-title text-center flex-grow-1">Pro Plan Perro Adulto Grande X 15 Kg + 3 Kg</h5>
                             <p class="card-text text-center flex-grow-1 text-success fw-bold">$ 74.767</p>
                         </div>
@@ -80,7 +80,7 @@
                 <div class="col-12 col-sm-6 col-md-4 col-lg-3 mb-3">
                     <div class="card h-100 d-flex flex-column">
                         <img src="assets/images/purina-cat.webp" class="card-img-top" alt="...">
-                        <div class="card-body d-flex flex-column">
+                        <div class="card-body bg-dark d-flex flex-column">
                             <h5 class="card-title text-center flex-grow-1">Pro Plan Gato Adulto Urinary Care X 7.5 Kg</h5>
                             <p class="card-text text-center flex-grow-1 text-success fw-bold">$ 74.024</p>
                         </div>
@@ -89,7 +89,7 @@
                 <div class="col-12 col-sm-6 col-md-4 col-lg-3 mb-3">
                     <div class="card h-100 d-flex flex-column">
                         <img src="assets/images/whole-earth.webp" class="card-img-top" alt="...">
-                        <div class="card-body d-flex flex-column">
+                        <div class="card-body bg-dark d-flex flex-column">
                             <h5 class="card-title text-center flex-grow-1">Whole Earth Farms Perro Adulto</h5>
                             <p class="card-text text-center flex-grow-1 text-success fw-bold">$ 75.252</p>
                         </div>
@@ -98,7 +98,7 @@
                 <div class="col-12 col-sm-6 col-md-4 col-lg-3 mb-3">
                     <div class="card h-100 d-flex flex-column">
                         <img src="assets/images/pedigree.webp" class="card-img-top" alt="...">
-                        <div class="card-body d-flex flex-column">
+                        <div class="card-body bg-dark d-flex flex-column">
                             <h5 class="card-title text-center flex-grow-1">Pedigree Perro Cachorro Sano Crecimiento X 21 Kg</h5>
                             <p class="card-text text-center flex-grow-1 text-success fw-bold ">$ 44.527</p>
                         </div>
