@@ -30,7 +30,7 @@
                             <a class="nav-link" href="quienesSomos">Quienes Somos</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link">Acerca de</a>
+                            <a href="acercade" class="nav-link">Acerca de</a>
                         </li>
                         <li class="nav-item">
                             <a href="login" class="nav-link">Login</a>
