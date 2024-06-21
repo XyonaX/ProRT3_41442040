@@ -19,7 +19,7 @@
                 <input type="password" class="form-control" id="confirmPassword" placeholder="Confirma tu contraseña">
             </div>
             <button type="submit" class="btn btn-outline-success btn-block mb-2">Registrarse</button>
-            <span><a href="login" class="text-success link-underline link-underline-opacity-0">¿Ya posees una cuenta? Incia Sesion</a></span>
+            <span class="text-success">¿Ya posees una cuenta? <a href="login" class="text-success link-underline-success link-underline-opacity-50">Incia Sesion</a></span>
         </form>
     </div>
 </section>

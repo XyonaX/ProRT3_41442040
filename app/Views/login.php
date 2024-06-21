@@ -11,7 +11,7 @@
                 <input type="password" class="form-control" id="password" placeholder="Ingresa tu contraseña">
             </div>
             <button type="submit" class="btn btn-outline-success btn-block mb-2">Iniciar Sesión</button>
-            <span><a href="registro" class="text-success link-underline link-underline-opacity-0">¿No tienes cuenta? Registrate</a></span>
+            <span class="text-success">¿No tienes cuenta? <a href="registro" class="text-success link-underline-success link-underline-opacity-50">Registrate</a></span>
         </form>
     </div>
 </section>
