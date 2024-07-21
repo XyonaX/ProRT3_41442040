@@ -1,4 +1,11 @@
     <section class="hero-slide cointar-fluid minvh-100">
+        <div class="popup" id="popup">
+            <?php if (session()->getFlashdata('message')) : ?>
+                <div class="alert alert-success mt-3 w-25 text-center" role="alert">
+                    <?= session()->getFlashdata('message') ?>
+                </div>
+            <?php endif; ?>
+        </div>
         <div class="row">
             <div class="col-12">
                 <div id="carouselExampleInterval" class="carousel slide" data-bs-ride="carousel">
@@ -24,36 +31,36 @@
     </section>
     <section class="animales container-fluid">
         <div class="row gap-4 justify-content-evenly">
-            <div class="card mt-3" style="width: 10rem; border: none;">
+            <div class="card mt-3 bg-dark" style="width: 10rem; border: none;">
                 <a href="">
                     <img src="assets/images/gato.webp" class="card-img-top" alt="...">
                 </a>
                 <div class="card-body">
-                    <p class="text-center text-dark">gatos</p>
+                    <p class="text-center text-white">gatos</p>
                 </div>
             </div>
-            <div class="card mt-3" style="width: 10rem; border: none;">
+            <div class="card mt-3 bg-dark" style="width: 10rem; border: none;">
                 <a href="">
                     <img src="assets/images/perro.webp" class="card-img-top" alt="...">
                 </a>
                 <div class="card-body">
-                    <p class="text-center text-dark">perros</p>
+                    <p class="text-center text-white">perros</p>
                 </div>
             </div>
-            <div class="card mt-3" style="width: 10rem; border: none;">
+            <div class="card mt-3 bg-dark" style="width: 10rem; border: none;">
                 <a href="">
                     <img src="assets/images/ave.webp" class="card-img-top" alt="...">
                 </a>
                 <div class="card-body">
-                    <p class="text-center text-dark">aves</p>
+                    <p class="text-center text-white">aves</p>
                 </div>
             </div>
-            <div class="card mt-3" style="width: 10rem; border: none;">
+            <div class="card mt-3 bg-dark" style="width: 10rem; border: none;">
                 <a href="">
                     <img src="assets/images/pez.webp" class="card-img-top" alt="...">
                 </a>
                 <div class="card-body">
-                    <p class="text-center text-dark">peces</p>
+                    <p class="text-center text-white">peces</p>
                 </div>
             </div>
         </div>
