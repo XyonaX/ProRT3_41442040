@@ -1,0 +1,12 @@
+https://github.com/XyonaX/ProT3-41442040
+
+se agrego un usuario con el rol de admin el cual es el unico que por el momento puede hacer los crud de usuarios
+
+los datos para ingrear como administrador son los siguiente
+email: admin@gmail.com
+pass: 12345678
+
+tambien cree un usuario del rol de cliente, los datos para ingresar son los siguientes
+
+email: test@gmail.com
+pass: 12345678
