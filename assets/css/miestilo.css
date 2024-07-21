@@ -22,3 +22,18 @@
     flex-wrap: wrap;
 }
 
+.collapse-user .dropdown-menu {
+    left: auto;
+    top: auto;
+    right: 1px;
+}
+
+.active{
+    color: #ffc107 !important;
+}
+
+.dropdown-item.active,
+.dropdown-item:active {
+    background-color: #212529;
+    border-radius: 5px;
+}
