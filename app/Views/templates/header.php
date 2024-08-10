@@ -17,7 +17,7 @@
         </div>
         <nav class="navbar navbar-expand-lg bg-body-tertiary" data-bs-theme='dark'>
             <div class="container-fluid">
-                <a class="navbar-brand" href="index.php"><img src="<?php echo base_url('assets/images/Chess.svg'); ?>" class="img-fluid" width="80px" alt="logo"></a>
+                <a class="navbar-brand" href="<?php echo base_url('/') ?>"><img src="<?php echo base_url('assets/images/Chess.svg'); ?>" class="img-fluid" width="80px" alt="logo"></a>
                 <?php if (isset($isLoggedIn) && $isLoggedIn) : ?>
 
                     <div class="gap-2 d-flex justify-content-end align-items-end">
